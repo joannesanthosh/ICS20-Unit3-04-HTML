@@ -9,7 +9,7 @@
 /**
  * This function converts the degrees from fahrenheit to celsius
  */
-function calculate() {
+function convert() {
   // input
   const fahrenheit = parseInt(document.getElementById('fahrenheit').value);
 
