@@ -17,5 +17,5 @@ function convert() {
   const celsius = (fahrenheit - 32) * 5 / 9
 
   // output
-  document.getElementById('celsius').innerHTML = '<p>The celsius is: ' + celsius.toFixed(2) + '°<p>'
+  document.getElementById('celsius').innerHTML = '<p>The  temperature in celsius is: ' + celsius.toFixed(2) + '°<p>'
   }
